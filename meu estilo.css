@@ -1,0 +1,10 @@
+.bordas{
+    width: 500px;
+height: 150px;
+border-color: black;
+border-width: 5px;
+border-style: solid;
+border-radius: 3%;
+background-color:rgb(196, 0, 0);
+
+}
